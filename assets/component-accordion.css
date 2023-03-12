@@ -8,7 +8,6 @@
 .accordion .summary__title {
   display: flex;
   flex: 1;
-  transition: all 0.3s linear;
 }
 
 .accordion .summary__title + .icon-caret {
@@ -52,7 +51,6 @@
   word-break: break-word;
   overflow-x: auto;
   padding: 0 0.6rem;
-  transition: all 0.3s linear;
 }
 
 .accordion__content img {
